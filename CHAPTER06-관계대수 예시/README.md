@@ -1,5 +1,6 @@
 # 관계 대수 (Relational Algebra)
 ![image](https://github.com/user-attachments/assets/68e605cb-80d3-47e9-ac1e-8cda18750fde)
+![image](https://github.com/user-attachments/assets/b8dc907e-14b9-4014-a5bd-101d4c104f20)
 
 ## 1. 일반집합 연산자
 
